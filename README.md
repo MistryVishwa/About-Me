@@ -50,6 +50,16 @@ Currently, I am pursuing **Master of Computer Applications (MCA)** from **Parul 
 
 ---
 
+## 💻 Currently Learning
+
+* 🤖 Generative AI (Gen AI)
+* 🧠 AI Agents Development
+* 💻 AI Powered Applications
+* ⚡ AI Tools & Automation
+* ✨ Prompt Engineering
+
+---
+
 ## 🤖 AI Generated / AI Assisted Projects
 
 ### 🔗 EduPilot AI Study Assistant  
